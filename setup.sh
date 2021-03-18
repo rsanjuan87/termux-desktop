@@ -348,3 +348,4 @@ cd ~/.oh-my-zsh/plugins
 git clone https://github.com/zsh-users/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-completions
+echo enable zsh-syntax-highlighting zsh-completions zsh-autosuggestions adb fancy-ctrl-z sudo in ~/.zshrc
