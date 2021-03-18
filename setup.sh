@@ -341,3 +341,5 @@ elif [[ "$1" == "--uninstall" ]]; then
 else
 	{ usage; reset_color; exit 0; }
 fi
+
+wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh && bash InstallTools.sh
